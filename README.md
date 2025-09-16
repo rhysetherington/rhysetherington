@@ -44,7 +44,7 @@
 
 ## 🧪 Current Labs & Projects  
 - 🛡️ **Cybersecurity Assessment Framework** (CIS-aligned toolkit)  
-- ☁️ **Azure IAM & Storage Labs**  
+- ☁️ **Azure IAM & Storage Labs** (https://github.com/rhysetherington/Azure-Labs)
 - 🔴 **Red Team / Blue Team scenarios** on TryHackMe & Kali Linux  
 - 🤖 **AI for IT Ops** with Copilot & OpenAI  
 
